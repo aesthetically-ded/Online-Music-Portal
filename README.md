@@ -1,5 +1,3 @@
-# Online-Music-Portal
-Online Music Portal (React + Firebase)
 # Online Music Portal 🎶 (May 2023)
 
 **Mentor:** Dr. Namita Panda, KIIT University  
